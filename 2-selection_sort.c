@@ -1,8 +1,9 @@
 #include "sort.h"
 #include <stdio.h>
 
+
 /**
-* selection_sort-Sorts an array of int in ascending order using the Selection sort
+* selection_sort - Sorts an array using Selection Sort
 * @array: Pointer to the array to be sorted
 * @size: Size of the array
 */
